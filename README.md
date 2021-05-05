@@ -1,2 +1,2 @@
 # mooc-certificates
-Online Certifications
+This repository contains my certificates from online courses.
